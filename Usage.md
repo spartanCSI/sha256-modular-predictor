@@ -1,16 +1,16 @@
 Usage Guide: Hash Prediction Research
 This document provides a step-by-step guide on how to use the hash prediction method developed in this research. The method simplifies SHA-256 hash reversal into a single predictive path using modular range mapping.
-1.Prerequisites
+1. Prerequisites
 Before using the method, ensure you have the following:
 - Python 3.x installed on your system
 - Basic knowledge of Python programming
 - Access to the provided Python script (predict_input_from_hash.py).
 
-2.Installation
+2. Installation
 No special installation is required. Simply download or clone the repository containing the script.
 hash
 
-1.git clone https://github.com/yourusername/hash-prediction-research.git
+1. git clone https://github.com/yourusername/hash-prediction-research.git
 2.cd hash-prediction-research
 
 3. How It Works
